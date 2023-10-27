@@ -1,0 +1,46 @@
+/* SearchProduct.css */
+
+.search-product {
+    border: 1px solid #ddd;
+    padding: 20px;
+    margin-bottom: 20px;
+    background-color: #f9f9f9;
+}
+
+.search-product h3 {
+    color: #333;
+}
+
+.search-product input {
+    padding: 8px;
+    margin-right: 10px;
+    border: 1px solid #ddd;
+}
+
+.search-product button {
+    background-color: #007bff;
+    color: #fff;
+    padding: 8px 16px;
+    border: none;
+    cursor: pointer;
+}
+
+.search-product button:hover {
+    background-color: #0056b3;
+}
+
+.search-product h4 {
+    margin-top: 20px;
+    color: #333;
+}
+
+.search-product ul {
+    list-style: none;
+    padding: 0;
+}
+
+.search-product li {
+    margin-bottom: 10px;
+}
+
+/* Add more styles as needed */
